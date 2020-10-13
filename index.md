@@ -6,4 +6,4 @@ Our goal is to develop revolutionary off-site housing through the powerful, safe
 ### Helpful links:
 Main orginzation page can be found here: https://github.com/PAPA-247
 
-Main project can be found here: XXX
+Main project _JOHN_ can be found here: https://github.com/PAPA-247/john
